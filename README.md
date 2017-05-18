@@ -1,7 +1,6 @@
 # Title
 
-## What is this repo?
-
+- What is this repo?
 - Who is it for?
 - What does it contain?
 - How to contribute
