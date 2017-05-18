@@ -44,7 +44,7 @@ The following are presentations that introduce concepts. They assume audiences w
 > :blue_book: **Strategy & Roadmap** - _Description needed._     
 [Google Drive](https://drive.google.com/open?id=1rZs5Bqd_aMYtR80WCfd97LLd9YF4P7HfdCnVQoQpBvg) | [PDF](presentations/Strategy%20and%20Roadmap.pdf)
 
-> > :blue_book: **Writing customer promises** - _Description needed._     
+> :blue_book: **Writing customer promises** - _Description needed._     
 [Google Drive](https://docs.google.com/presentation/d/1TTmQ4_as4lxjIbrjdHL-XPaLwQbICK4SBxlIQEDOf6E/edit#slide=id.gf774b1724_1_76) | [PDF](presentations/Writing%20customer%20promises.pdf)
 
 
