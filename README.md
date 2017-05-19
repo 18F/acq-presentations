@@ -8,9 +8,9 @@
 
 #### Table of Contents
 - [Introductory resources](#introductory-resources)
-- [click on this link] (#strategy)
-- [click on this link] (#skill-specific)
-- [click on this link] (#the-way-we-work)
+- [Strategy](#strategy)
+- [Skill specific](#skill-specific)
+- [The way we work](#the-way-we-work)
 
 ## About our consulting work
 
