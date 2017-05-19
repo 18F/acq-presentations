@@ -1,10 +1,10 @@
 # Acquisition Consulting Presentations
 
-- This repo is for the Acquisition Consulting team to share presentations, templates, facilitation materials, deliverables and the like that they found helpful in working with clients.  Sharing is caring.  And allows our team to ~plagarize~ borrow from one another, making planning the next workshop or client briefing somewhat easier and faster.  
+This repo is for the Acquisition Consulting team to share presentations, templates, facilitation materials, deliverables and the like that they found helpful in working with clients.  Sharing is caring.  And allows our team to ~plagarize~ borrow from one another, making planning the next workshop or client briefing somewhat easier and faster.  
 
-- This is a work in progress.  Please feel free to contribute directly with your stash of materials.  I'm considering this a funnel and some of the materials may matriculate to https://modularcontracting.18f.gov/ for broader use.  
+The repo is a work in progress.  Please feel free to contribute directly with your stash of materials.  I'm considering this a funnel and some of the materials may matriculate to https://modularcontracting.18f.gov/ for broader use.  
 
-- One note:  be sure to scrub materials of anything client-specific or procurement-sensitive.  It's also not a bad idea to get a thumbs-up from clients prior to posting.  
+One note:  be sure to scrub materials of anything client-specific or procurement-sensitive.  It's also not a bad idea to get a thumbs-up from clients prior to posting.  
 
 #### Table of Contents
 - [Introductory resources](#introductory-resources)
@@ -13,7 +13,7 @@
 - [The way we work](#the-way-we-work)
 
 ## About our work
-- GSA's Technology Transformation Service (TTS) Office of Acqusition helps agencies and state and local partners create a contracting strategy that reduces risk, quickly delivers value to users, and provides the technical expertise to better manage vendors. 
+GSA's Technology Transformation Service (TTS) Office of Acqusition helps agencies and state and local partners create a contracting strategy that reduces risk, quickly delivers value to users, and provides the technical expertise to better manage vendors. 
 
 This team works with partners from scoping to post-award management to ensure that they're confident in the outcome of your acquisition. We help introduce agile development methods into the procurement and break contracts into smaller chunks to reduce risk. We help partners build the necessary skills to solicit and manage technology projects with agile vendors and continue to procure high-quality, lower-risk technology products.  
 
