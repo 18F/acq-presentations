@@ -1,15 +1,16 @@
-# Title
+# Acquisition Presentations
 
-- What is this repo?
-- Who is it for?
-- What does it contain?
-- How to contribute
+- This repo is for the Acquisitions team to share presentations, templates, facilitation materials, deliverables and the like that they found helpful in working with clients.  Sharing is caring.  And allows our team to ~plagarize~ borrow from one another, making planning the next workshop or client briefing somewhat easier and faster.  
+
+- This is a work in progress.  Please feel free to contribute directly with your stash of materials.  I'm considering this a funnel and some of the materials may matriculate to https://modularcontracting.18f.gov/ for broader use.  
+
+- One note:  be sure to scrub materials of anything client-specific or procurement-sensitive.  It's also not a bad idea to get a thumbs-up from clients prior to posting.  
 
 #### Table of Contents
 - [Introductory resources](#introductory-resources)
-- [Strategy] (#strategy)
-- [Skill specific] (#skill-specific)
-- [The way we work] (#the-way-we-work)
+- [click on this link] (#strategy)
+- [click on this link] (#skill-specific)
+- [click on this link] (#the-way-we-work)
 
 ## About our consulting work
 
