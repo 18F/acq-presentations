@@ -23,15 +23,14 @@ This team works with partners from scoping to post-award management to ensure th
 
 The following are presentations that introduce concepts. They assume audiences with limited prior knowledge.
 
-(Example of a resource)
+> :blue_book: **Agile acquisitions** – _Description needed._     
+[Google Drive](http:www.example.com) | [PDF](presentations/Agile%20Acquisitions%20Presentation.pdf) | By [Jessie Posilken](https://github.com/jposi)
 
-> :blue_book: **Resource name** – _Brief description of the document and its value._     
-[Google Drive](http:www.example.com) | [PDF](http:www.example.com) | By [Vicki McFadden](https://github.com/vickimcfadden)
+> :blue_book: **Modular contracting** – _Brief description of the document and its value._     
+[PDF](presentations/Presentation%20Modular%20Contracting%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
 
-> :blue_book: **Resource name** – _Brief description of the document and its value._     
-[Google Drive](http:www.example.com) | [PDF](http:www.example.com) | By [Vicki McFadden](https://github.com/vickimcfadden)
-
-(The following are to record the folder structure since I'll be removing the folders.)
+> :blue_book: **Strangler pattern / Encasement strategy** – _Description needed._     
+[Google Drive](https://drive.google.com/open?id=0B-mH7S3Kbx_xa2tZcmZCVEtsLUU) | [PDF](presentations/Presentation%20Strangler%20Pattern%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
 
 ### Strategy
 
