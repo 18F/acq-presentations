@@ -32,18 +32,23 @@ This team works with partners from scoping to post-award management to ensure th
 > :blue_book: **Lessons learned from previous engagements** - _Discusses the Acquisition Consulting principles and what is needed on the client side to begin working this way, including product management thinking, cross-functional team and leadership support, and a DevOps pipeline._     
 [Google Drive](https://docs.google.com/presentation/d/1THdDgecX5qQcbUkDCVGbNNsnuyDewC7faRhtG5HRsLQ/edit) | [PDF](presentations/Lessons%20learned%20from%20past%20engagements.pdf)
 
-> :blue_book: **Incrementally transforming a product** - _A visual explanation of how a website or other digital product can be replaced in increments over time, rather than through a large, all-at-once replacement approach._ Google Drive: [presentation](https://docs.google.com/presentation/d/1W0k2TzXixWrN8aHQYUvzqZvPIEQmRR84HwspqPelsg0/edit), [Sketch file](https://drive.google.com/open?id=0B7B4Cxnx7uf2S01rSnk2ZFM3dGc) | [PDF](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/modular-experience.pdf) 
+> :blue_book: **Incrementally transforming a product** - _A visual explanation of how a website or other digital product can be replaced in increments over time, rather than through a large, all-at-once replacement approach._      
+Google Drive: [presentation](https://docs.google.com/presentation/d/1W0k2TzXixWrN8aHQYUvzqZvPIEQmRR84HwspqPelsg0/edit), [Sketch file](https://drive.google.com/open?id=0B7B4Cxnx7uf2S01rSnk2ZFM3dGc) | [PDF](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/modular-experience.pdf) 
 
 ### Procurement
-> :blue_book: **Introduction to Agile acquisitions** - _A general introduction to the work of the acquisitions team._ [Google Drive](https://docs.google.com/presentation/d/1JqvIwlB7SMQU7mHkGQAW0huIlp3PNpaYCQOhN7mWFYk/edit#slide=id.g11b16e26a9_0_5) | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Agile%20Acquisitions%20Presentation.pdf) | By [Jessie Posilken](https://github.com/jposi)
 
 > :computer: **[Modular Contracting website](https://modularcontracting.18f.gov/)** - _Description needed_ 
 
-> :blue_book: **Getting things done in Government, a.k.a. Modular Contracting** - _Description needed_ [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Presentation%20Modular%20Contracting%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
+> :blue_book: **Introduction to Agile acquisitions** - _A general introduction to the work of the acquisitions team._      
+[Google Drive](https://docs.google.com/presentation/d/1JqvIwlB7SMQU7mHkGQAW0huIlp3PNpaYCQOhN7mWFYk/edit#slide=id.g11b16e26a9_0_5) | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Agile%20Acquisitions%20Presentation.pdf) | By [Jessie Posilken](https://github.com/jposi)
+
+> :blue_book: **Getting things done in Government, a.k.a. Modular Contracting** - _Description needed_      
+[PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Presentation%20Modular%20Contracting%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
 
 [//]: # "Randy's docs"
 
-> :blue_book: **Procurement considerations for software development contracts** - _Description needed_ [Google Drive](https://docs.google.com/document/d/1ysssq2zPnam2vhUzR-6ty-wd9tiGQsv5lQbqCGApQoc/edit) | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Procurement%20Considerations%20for%20Agile%20SW.pdf) | By [Randy Hart](https://github.com/randyhart)
+> :blue_book: **Procurement considerations for software development contracts** - _Description needed_       
+[Google Drive](https://docs.google.com/document/d/1ysssq2zPnam2vhUzR-6ty-wd9tiGQsv5lQbqCGApQoc/edit) | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Procurement%20Considerations%20for%20Agile%20SW.pdf) | By [Randy Hart](https://github.com/randyhart)
 
 ### DevOps
 > :blue_book: **DevOps Overview** - _Describes DevOps practices of culture, lean, automation, and measurement._     
@@ -71,7 +76,8 @@ This team works with partners from scoping to post-award management to ensure th
 [//]: # "Roadmap examples"
 
 ### Legacy
-> :blue_book: **The Strangler Pattern** - _Description needed_ [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Presentation%20Strangler%20Pattern%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
+> :blue_book: **The Strangler Pattern** - _Description needed_       
+[PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Presentation%20Strangler%20Pattern%20(1).pdf) | By [Jeremy Zilar](https://github.com/jeremyzilar)
 
 [//]: # "Kane's docs"
 [//]: # "Prototyping is needed"
