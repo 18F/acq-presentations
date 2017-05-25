@@ -82,10 +82,13 @@ Google Drive: [presentation](https://docs.google.com/presentation/d/1W0k2TzXixWr
 [//]: # "Kane's docs"
 [//]: # "Prototyping is needed"
 
-### Open source
+### Tech
 
 > :blue_book: **Open source: What, why and how** - _Describes what open source is, why it's useful in a government context, and shows some examples from previous 18F work._     
 [Google Drive](https://drive.google.com/open?id=1rpQPxzozq1Jn2ISj-ROwaxn0q8owm46_DMJYrxEkXjY) | [PDF](presentations/Open%20source-%20why%20and%20how-.pdf)
+
+> :blue_book: **Open source and architecture** - _Hits open source at a high level, tries to dispel the worry about open source being risky, describes how to think about how to do architecture in an agile way, and describes service-oriented architecture and microservices._
+[Google Drive](https://drive.google.com/open?id=1_k7zU29eAdmAgctaSvYsT97qfIUEaASiYb6MimcXK1w) | [PDF](presentations/Open%20source%20and%20architecture.pdf) | By [Greg Walker](https://github.com/mgwalker)
 
 [//]: # "Start open from the beginning"
 [//]: # "Look at one-page for materials"
