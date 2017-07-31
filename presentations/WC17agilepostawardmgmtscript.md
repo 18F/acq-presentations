@@ -1,9 +1,13 @@
 ## Who we are
 Michelle, then Rebecca, then Greg
 
-[explain what AcqStack is, our philosophy about buying digital services; high-level explanation of how we conduct buys, qualified vendor pools]
+[Modular contracting](https://modularcontracting.18f.gov/)
+Blog posts about [agile](https://18f.gsa.gov/search/?q=agile)
+Blog posts about [acquisition](https://18f.gsa.gov/search/?q=acquisition)
+[Agile BPA](https://ads.18f.gov/)
+[DOL 14(c)](https://github.com/18F/bpa-DOL-WHD-14-c) 
+[Forest Service](https://github.com/18F/fs-online-permitting/wiki/Introduction)
 
-[maybe list a couple of successful projects for credentials]
 ## Some terms we’ll be using
 Agile is a set of principles for building software.  It prioritizes people and their needs over everything else, so everything else is in service to people’s actual needs.  The most important thing is to deliver a steady stream of value.
 To that end, it usually involves short cycles of work called sprints that are typically 2 weeks long.  You may hear us use the word iteration - for this talk, that’s the same as a sprint.
