@@ -20,7 +20,8 @@ Features and work to be done are put into a prioritized list called a backlog.
 [explain what we’re going to be doing]
 Greg: How is post-award management defined?
 
-	Michelle:  Post award management is define as working together with a vendor on completion of the services purchased. Post award management is critical to success of a program. Without proper contract administration we could be setting vendors and or the government up for failure. 
+	Michelle:  
+Post award management is define as working together with a vendor on completion of the services purchased. Post award management is critical to success of a program. Without proper contract administration we could be setting vendors and or the government up for failure. 
 
 Rebecca:  How does TTS approach post-award management?
 Team size and makeup
@@ -29,12 +30,14 @@ Open communication
 Video calls and slack
 Rebecca: How do you allow the agile methodology principles to shape your post-award management?
 
-Greg: The first thing is putting users first. Make sure users are at the kickoff workshop, and then make sure there’s regular user research to keep the product on target.  By regularly reprioritizing the backlog, we’re letting the most pressing user needs get worked on first.  If we had figured out up front exactly what we expected the vendor to do, we’d miss that target pretty quickly as the backlog changed.  Instead of measuring the vendor’s performance against a set of milestones or outputs that we defined in the beginning, we measure against the backlog.
+Greg: 
+The first thing is putting users first. Make sure users are at the kickoff workshop, and then make sure there’s regular user research to keep the product on target.  By regularly reprioritizing the backlog, we’re letting the most pressing user needs get worked on first.  If we had figured out up front exactly what we expected the vendor to do, we’d miss that target pretty quickly as the backlog changed.  Instead of measuring the vendor’s performance against a set of milestones or outputs that we defined in the beginning, we measure against the backlog.
 
 We give our vendors leeway to choose how they want the team to work and ideally, they have an agile coach that can point them in the right direction if necessary. Occasionally, we will act as the agile coach and offer suggestions of how things can be going better. 
 
 
-	Michelle: Have the flexibility within the project team and contracting office to understand that in a short time period not everything will get done. This is done by allowing for a Statement of Objectives and using LH contracts when possible. Additionally, during the evaluation process we seek vendors who practice agile methods. This is demonstrated by asking for working prototypes vs the vendor telling us what they have completed in the past. 
+	Michelle:
+Have the flexibility within the project team and contracting office to understand that in a short time period not everything will get done. This is done by allowing for a Statement of Objectives and using LH contracts when possible. Additionally, during the evaluation process we seek vendors who practice agile methods. This is demonstrated by asking for working prototypes vs the vendor telling us what they have completed in the past. 
 
 Michelle: Your projects require a product owner.  What is a product owner and what is required of them in the process, and in particular for post-award management?
 
@@ -65,7 +68,8 @@ Rebecca: How involved should subject-matter experts be in post-award?
 
 	
 
-Greg: Getting the agency IT and CIO shop involved is important.  CIO needs to be involved early because they have deep understanding of the information policies and requirements and can make sure the project stays within those bounds at a high-level.  Then the IT folks, whether they are part of the CIO’s office or they’re a separate office that more directly serves the program office, but the people who do the day-to-day IT work, they need to be involved in the daily project work as well.  They’re the ones who implement the policies from CIO, so we need to make sure they know where we’re headed so they can prepare, but also so they can push back on things that won’t fit with policy.  We want them integrated throughout, so as we work, the current state of the project is within the IT requirements, rather than trying to shoehorn the product into IT requirements at the end.
+Greg: 
+Getting the agency IT and CIO shop involved is important.  CIO needs to be involved early because they have deep understanding of the information policies and requirements and can make sure the project stays within those bounds at a high-level.  Then the IT folks, whether they are part of the CIO’s office or they’re a separate office that more directly serves the program office, but the people who do the day-to-day IT work, they need to be involved in the daily project work as well.  They’re the ones who implement the policies from CIO, so we need to make sure they know where we’re headed so they can prepare, but also so they can push back on things that won’t fit with policy.  We want them integrated throughout, so as we work, the current state of the project is within the IT requirements, rather than trying to shoehorn the product into IT requirements at the end.
 
 With DOL, we didn’t get the CIO and IT folks involved at the beginning and it caused us some problems.  For one, when we got to the end of the period of performance, IT wasn’t ready to accept the application into their environment, so it took some extra time and effort to get that setup.  Since they hadn’t been involved all along, we had to basically go back through a few weeks worth of discussion to find all the information they needed.  So, we’re about to start a second phase with them on the same product, and this time, we have IT heavily involved right from the beginning.  We’re already seeing that pay off because they are pointing out where the product doesn’t conform to standards, and because we’re not up against an immediate deadline, we’re able to discuss and even be flexible with their policies in a lot of cases, because we have time to go back and talk to CIO or whoever about it.
 
@@ -85,7 +89,8 @@ Eqip- concerned about moving this off to cloud.gov into their hosting environmen
 
 Michelle: This style seems to add a lot of overhead to the project.  Why is that valuable or necessary?
 
-	Rebecca: We haven’t experimented with a lighter touch. Haven’t tested minimally viable oversight.
+	Rebecca: 
+We haven’t experimented with a lighter touch. Haven’t tested minimally viable oversight.
 Creating an environment that works to create trust. 
 For PMO contracts, what’s the difference between contracts that provides folks that are in the office on a daily basis, that you need to manage? That creates an incredible amount of overhead. 
 Very project oriented instead of professional services/staff aug. 
