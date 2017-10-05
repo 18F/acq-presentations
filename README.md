@@ -50,6 +50,8 @@ Google Drive: [presentation](https://docs.google.com/presentation/d/1W0k2TzXixWr
 > :blue_book: **Procurement considerations for software development contracts** - _Description needed_       
 [Google Drive](https://docs.google.com/document/d/1ysssq2zPnam2vhUzR-6ty-wd9tiGQsv5lQbqCGApQoc/edit) | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/Procurement%20Considerations%20for%20Agile%20SW.pdf) | By [Randy Hart](https://github.com/randyhart)
 
+> :blue_book: **Thoughts on Procurement Strategy and Principles** - _This includes some principles for agile contracts and includes links to examples TTS has used in past RFPs_ | [PDF](https://github.com/18F/acq-presentations/blob/master/presentations/ProcurementStrategyandKeyPrinciples-ModularProcurements%20(2).pdf) | By [Randy Hart](https://github.com/randyhart)
+
 ### DevOps
 > :blue_book: **DevOps Overview** - _Describes DevOps practices of culture, lean, automation, and measurement._     
 [Google Drive](https://docs.google.com/presentation/d/1iHkHjNT6JM36j1nUkhT6vCVfUTsQOD5yS-_aaPVKNBQ/edit) | [PDF](presentations/DevOps%20Overview.pdf)
